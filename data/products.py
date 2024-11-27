@@ -1,0 +1,22 @@
+product = [
+    {"name": "Laptop", "price": 999.99, "category": "Electronics"},
+    {"name": "Smartphone", "price": 699.99, "category": "Electronics"},
+    {"name": "Wireless Mouse", "price": 25.99, "category": "Accessories"},
+    {"name": "Bluetooth Headphones", "price": 59.99, "category": "Accessories"},
+    {"name": "Smartwatch", "price": 199.99, "category": "Wearables"},
+    {"name": "Gaming Chair", "price": 149.99, "category": "Furniture"},
+    {"name": "Tablet", "price": 349.99, "category": "Electronics"},
+    {"name": "USB-C Cable", "price": 9.99, "category": "Accessories"},
+    {"name": "Portable Speaker", "price": 49.99, "category": "Electronics"},
+    {"name": "Smart TV", "price": 499.99, "category": "Electronics"},
+    {"name": "Coffee Maker", "price": 89.99, "category": "Home Appliances"},
+    {"name": "Blender", "price": 69.99, "category": "Home Appliances"},
+    {"name": "Air Fryer", "price": 129.99, "category": "Home Appliances"},
+    {"name": "Vacuum Cleaner", "price": 89.99, "category": "Home Appliances"},
+    {"name": "Desk Lamp", "price": 29.99, "category": "Furniture"},
+    {"name": "LED Monitor", "price": 159.99, "category": "Electronics"},
+    {"name": "Keyboard", "price": 49.99, "category": "Accessories"},
+    {"name": "Mouse Pad", "price": 12.99, "category": "Accessories"},
+    {"name": "E-reader", "price": 129.99, "category": "Electronics"},
+    {"name": "Wireless Charger", "price": 19.99, "category": "Accessories"}
+]

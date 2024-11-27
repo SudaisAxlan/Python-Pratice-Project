@@ -1,0 +1,22 @@
+AllUser = [
+    {"name": "Ali Khan", "email": "ali.khan@example.com", "age": 25},
+    {"name": "Sara Ali", "email": "sara.ali@example.com", "age": 28},
+    {"name": "John Smith", "email": "john.smith@example.com", "age": 30},
+    {"name": "Jessica Lee", "email": "jessica.lee@example.com", "age": 22},
+    {"name": "Michael Brown", "email": "michael.brown@example.com", "age": 35},
+    {"name": "Emily Davis", "email": "emily.davis@example.com", "age": 27},
+    {"name": "David Wilson", "email": "david.wilson@example.com", "age": 33},
+    {"name": "Sophia Taylor", "email": "sophia.taylor@example.com", "age": 24},
+    {"name": "Daniel Miller", "email": "daniel.miller@example.com", "age": 29},
+    {"name": "Olivia Moore", "email": "olivia.moore@example.com", "age": 26},
+    {"name": "James Anderson", "email": "james.anderson@example.com", "age": 32},
+    {"name": "Lily Thomas", "email": "lily.thomas@example.com", "age": 21},
+    {"name": "Matthew Harris", "email": "matthew.harris@example.com", "age": 34},
+    {"name": "Isabella Clark", "email": "isabella.clark@example.com", "age": 27},
+    {"name": "Ethan Lewis", "email": "ethan.lewis@example.com", "age": 28},
+    {"name": "Mia Walker", "email": "mia.walker@example.com", "age": 22},
+    {"name": "Joshua Martinez", "email": "joshua.martinez@example.com", "age": 31},
+    {"name": "Charlotte Robinson", "email": "charlotte.robinson@example.com", "age": 23},
+    {"name": "Lucas Young", "email": "lucas.young@example.com", "age": 30},
+    {"name": "Zoe King", "email": "zoe.king@example.com", "age": 29}
+]
